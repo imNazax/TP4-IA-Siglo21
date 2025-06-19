@@ -1,9 +1,9 @@
 ## Author
 Pablo Nazareno Coronati
 ## Content
-Hopfield Neural Network applied in Python
+Hough Transform
 ## Date
-05/22/2025
+06/19/2025
 ## University 
 Siglo 21
 ## Study
